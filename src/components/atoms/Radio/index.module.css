@@ -1,0 +1,103 @@
+@layer radio {
+  :export {
+    --inactiveColor: ;
+    --activeColor: ;
+  }
+
+  .label {
+    padding-right: 8px;
+    padding-left: 8px;
+  }
+
+  .wrap {
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 14px;
+    font-variant: tabular-nums;
+    line-height: 1.5715;
+    list-style: none;
+    font-feature-settings: 'tnum', 'tnum';
+  }
+
+  .radio_label_wrapper {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 14px;
+    font-variant: tabular-nums;
+    line-height: 1.5715;
+    list-style: none;
+    font-feature-settings: 'tnum', 'tnum';
+    display: inline-flex;
+    align-items: baseline;
+    line-height: unset;
+    cursor: pointer;
+  }
+
+  .radio_input_wrap {
+    color: rgba(0, 0, 0, 0.85);
+    font-variant: tabular-nums;
+    position: relative;
+    top: 0.2em;
+    line-height: 1;
+    white-space: nowrap;
+    outline: 0;
+  }
+
+  .radio_input {
+    transform: scale(1.3);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+  }
+
+  .radio_input_inner {
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 18px;
+    height: 18px;
+    direction: ltr;
+    border: 1px solid #d9d9d9;
+    border-radius: 50%;
+    border-collapse: separate;
+    transition: all 0.3s;
+    z-index: 1;
+    border-color: var(--inactiveColor);
+    padding: 2px;
+  }
+}
+
+.radio_input_inner_checked {
+  border-color: var(--activeColor);
+}
+
+.radio_input_inner::after {
+  position: absolute;
+  text-align: center;
+  width: 12px;
+  height: 12px;
+  display: none;
+  cursor: pointer;
+  display: block;
+  content: '';
+  border-radius: 50%;
+}
+
+.radio_input_inner.radio_input_inner_checked::after {
+  display: block;
+  background-color: var(--activeColor);
+}
+
+.radio_label_wrapper:hover .radio_input_wrap .radio_input_inner,
+.radio_input_wrap:hover .radio_input_inner,
+.radio_input:focus + .radio_input_inner {
+  border-color: var(--activeColor);
+}

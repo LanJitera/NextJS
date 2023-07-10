@@ -1,0 +1,135 @@
+.page_container {
+  flex-direction: column;
+  color: rgb(0, 0, 0);
+  display: flex;
+}
+.dashboardnavbar_1 {
+  width: 100%;
+  height: auto;
+}
+.dashboard_main {
+  background-color: rgb(255, 255, 255);
+  flex: 1;
+  width: 100%;
+  padding: 64px 128px 64px 128px;
+}
+.dashboard_main_wrapper {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0);
+  flex-direction: row;
+  display: flex;
+}
+.row_1 {
+  width: 100%;
+  margin: 0px 0px 0px 0px;
+}
+.dashboard_content {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0);
+  border-radius: 8px;
+}
+.dashboard_content_title {
+  background-color: rgb(245, 245, 245);
+  border-radius: 8px;
+  width: 100%;
+  padding: 16px 16px 16px 16px;
+}
+.text_9 {
+  word-break: break-word;
+  color: rgb(0, 0, 0);
+  font-size: 32px;
+  font-weight: 500;
+}
+.dashboard_content_filter_table {
+  flex-direction: row;
+  background-color: rgb(245, 245, 245);
+  width: 100%;
+  align-items: flex-start;
+  border-radius: 8px;
+  justify-content: flex-start;
+  display: flex;
+  margin: 16px 0px 0px 0px;
+  padding: 16px 16px 16px 16px;
+}
+.box_1 {
+  flex-direction: row;
+  background-color: #ffffff;
+  min-height: auto;
+  border-radius: 30px;
+  position: absolute;
+  width: 480px;
+  top: 50px;
+  left: 180px;
+  justify-content: flex-start;
+  height: 700px;
+  display: flex;
+  margin: 50px 0px 0px 0px;
+}
+.form_1 {
+  max-width: 600px;
+  height: auto;
+  margin: 0px auto 48px auto;
+  padding: 26px 26px 42px 26px;
+}
+.box_3 {
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  padding: 16px 30px 0px 24px;
+}
+.box_4 {
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  margin: 10px 0px 10px 0px;
+}
+.text_1 {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  display: inline;
+  margin: 0px 10px 0px 0px;
+}
+.text_2 {
+  color: rgb(255, 0, 0);
+  font-weight: bold;
+  display: inline;
+}
+.input_user_name {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0);
+}
+.box_5 {
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  margin: 10px 0px 0px 0px;
+}
+.box_14 {
+  width: 100%;
+  height: auto;
+  margin: 10px 0px 10px 0px;
+}
+.datetimepicker_1 {
+  width: 376px;
+  color: rgb(0, 0, 0);
+  border-color: rgb(217, 217, 217);
+  height: 48px;
+}
+.button_1 {
+  background-color: #aed6b3;
+  border-radius: 15px;
+  width: 376px;
+  height: 48px;
+  margin: 16px 30px 16px 24px;
+}
+.text_14 {
+  word-break: break-word;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 600;
+}
+@media screen and (max-width: 600px) {
+  .dashboard_main {
+    padding-right: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-top: 16px;
+  }
+}

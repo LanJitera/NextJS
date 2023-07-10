@@ -1,0 +1,225 @@
+.page_container {
+  width: 100%;
+  flex-direction: column;
+  min-height: 100vh;
+  display: flex;
+}
+.herosection_1 {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 8%;
+  display: flex;
+}
+.box_2 {
+  background-color: rgb(243, 247, 251);
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 100%;
+  align-self: stretch;
+  height: 69%;
+}
+.image_2 {
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+  height: 73%;
+}
+.detailbookingparty_1 {
+  width: 100%;
+  position: relative;
+  height: 100px;
+}
+.box_3 {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 100%;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: auto;
+  display: flex;
+}
+.box_4 {
+  flex: none;
+  background-color: #60a8ec;
+  flex-grow: 0;
+  position: relative;
+  gap: 44;
+  align-self: stretch;
+  height: 100%;
+  align-items: flex-start;
+  width: 100vw;
+  flex-direction: row;
+  justify-content: flex-start;
+  display: flex;
+  padding: 33px 84px 33px 84px;
+}
+.box_5 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 1;
+  align-items: flex-start;
+  position: relative;
+  width: 592px;
+  gap: 14;
+  justify-content: flex-start;
+  height: 145px;
+  display: flex;
+}
+.box_6 {
+  width: 174px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 33px;
+}
+.image_1 {
+  width: 173px;
+  height: 25px;
+}
+.text_1 {
+  font-size: 18px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(255, 255, 255);
+  line-height: 27;
+  font-family: Roboto;
+  position: relative;
+  align-self: stretch;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400;
+}
+.box_7 {
+  width: 130px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 30px;
+}
+.box_8 {
+  width: 30px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  height: 30px;
+}
+.image_6 {
+  right: 2%;
+  position: absolute;
+  width: 28px;
+  top: 2%;
+  left: 2%;
+  bottom: 2%;
+  height: 28px;
+}
+.box_9 {
+  width: 30px;
+  top: 0;
+  left: 100;
+  position: absolute;
+  height: 30px;
+}
+.box_10 {
+  width: 30px;
+  top: 0;
+  left: 50;
+  position: absolute;
+  height: 30px;
+}
+.box_11 {
+  transform: rotate(-91deg);
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 156px;
+  border: 1 solid rgba(255, 255, 255, 0.20000000298023224);
+}
+.box_26 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 1;
+  align-items: flex-start;
+  position: relative;
+  width: 592px;
+  justify-content: space-between;
+  height: 159px;
+  display: flex;
+}
+.box_27 {
+  width: 197px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 159px;
+}
+.text_2 {
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  line-height: normal;
+  font-family: Roboto;
+  position: absolute;
+  top: 47.7578125;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400;
+  left: 0;
+}
+.text_3 {
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  line-height: 27;
+  font-family: Roboto;
+  position: absolute;
+  top: 0;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 500;
+  left: 0;
+}
+.text_29 {
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  line-height: normal;
+  font-family: Roboto;
+  position: absolute;
+  top: 78.7578125;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400;
+  left: 0;
+}
+.text_30 {
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  line-height: normal;
+  font-family: Roboto;
+  position: absolute;
+  top: 109.7578125;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400;
+  left: 0;
+}
+.text_31 {
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  line-height: normal;
+  font-family: Roboto;
+  position: absolute;
+  top: 140.7578125;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400;
+  left: 0;
+}

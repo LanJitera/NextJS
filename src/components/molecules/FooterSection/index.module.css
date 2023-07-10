@@ -1,0 +1,177 @@
+.page_container {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 1440px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 225px;
+  display: flex;
+}
+.footer_53 {
+  flex: none;
+  background-color: #8ddaf8;
+  flex-grow: 0;
+  position: relative;
+  gap: 44;
+  align-self: stretch;
+  height: 225px;
+  align-items: flex-start;
+  width: 1440px;
+  flex-direction: row;
+  justify-content: flex-start;
+  display: flex;
+  padding: 33px 84px 33px 84px;
+}
+.fickle_flight_bio_33 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 1;
+  align-items: flex-start;
+  position: relative;
+  width: 592px;
+  gap: 14;
+  justify-content: flex-start;
+  height: 145px;
+  display: flex;
+}
+.logo_25 {
+  width: 174px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 33px;
+}
+.image_25 {
+  right: 0.18%;
+  position: absolute;
+  width: 173px;
+  top: 1.59%;
+  bottom: 1.44%;
+  height: 25px;
+}
+.social_icons_33 {
+  width: 130px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 30px;
+}
+.facebook_icon_29 {
+  width: 30px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  height: 30px;
+}
+.image_29 {
+  right: 2%;
+  position: absolute;
+  width: 28px;
+  top: 2%;
+  left: 2%;
+  bottom: 2%;
+  height: 28px;
+}
+.twitter_icon_31 {
+  width: 30px;
+  top: 0;
+  left: 100;
+  position: absolute;
+  height: 30px;
+}
+.instagram_icon_33 {
+  width: 30px;
+  top: 0;
+  left: 50;
+  position: absolute;
+  height: 30px;
+}
+.seperator_34 {
+  transform: rotate(-91deg);
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 156px;
+  border: 1 solid rgba(255, 255, 255, 0.20000000298023224);
+}
+.footer_links_53 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 1;
+  align-items: flex-start;
+  position: relative;
+  width: 592px;
+  justify-content: space-between;
+  height: 159px;
+  display: flex;
+}
+.company_41 {
+  width: 197px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 159px;
+}
+.text_37 {
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  line-height: normal;
+  font-family: Roboto;
+  position: absolute;
+  top: 47.7578125;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400;
+  left: 0;
+}
+.text_38 {
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  line-height: 27;
+  font-family: Roboto;
+  position: absolute;
+  top: 0;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 500;
+  left: 0;
+}
+.text_39 {
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  line-height: normal;
+  font-family: Roboto;
+  position: absolute;
+  top: 78.7578125;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400;
+  left: 0;
+}
+.text_40 {
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  line-height: normal;
+  font-family: Roboto;
+  position: absolute;
+  top: 109.7578125;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400;
+  left: 0;
+}
+.text_41 {
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  line-height: normal;
+  font-family: Roboto;
+  position: absolute;
+  top: 140.7578125;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400;
+  left: 0;
+}

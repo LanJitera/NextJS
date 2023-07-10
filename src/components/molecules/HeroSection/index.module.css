@@ -1,0 +1,177 @@
+.page_container {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 1440px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 77px;
+  display: flex;
+}
+.top_header_20 {
+  flex: none;
+  background-color: rgb(255, 255, 255);
+  flex-grow: 0;
+  position: relative;
+  gap: 10;
+  align-self: stretch;
+  height: 77px;
+  align-items: center;
+  width: 1440px;
+  flex-direction: row;
+  justify-content: center;
+  display: flex;
+  padding: 22px 80px 22px 80px;
+}
+.top_container_20 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 1;
+  align-items: center;
+  position: relative;
+  width: 1280px;
+  justify-content: space-between;
+  height: 36px;
+  display: flex;
+}
+.fickleflight_logo_8 {
+  width: 174px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 33px;
+}
+.symbols_8 {
+  width: 173px;
+  height: 32px;
+}
+.image_8 {
+  width: 173px;
+  top: 0%;
+  position: absolute;
+  bottom: 0%;
+  height: 25px;
+}
+.navigationright_20 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 435px;
+  gap: 36;
+  justify-content: flex-end;
+  height: 36px;
+  display: flex;
+}
+.navigation_menu_14 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 260px;
+  gap: 30;
+  justify-content: flex-end;
+  height: 16px;
+  display: flex;
+}
+.text_11 {
+  font-size: 20px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(18, 98, 175);
+  line-height: normal;
+  font-family: Roboto;
+  position: relative;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400;
+}
+.text_12 {
+  font-size: 20px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(65, 65, 65);
+  line-height: normal;
+  font-family: Roboto;
+  position: relative;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400;
+}
+.login {
+  flex: none;
+  flex-grow: 0;
+  font-family: unset;
+  position: relative;
+  white-space: unset;
+  text-decoration: unset;
+  text-align: left;
+  font-style: unset;
+  vertical-align: top;
+  color: rgb(65, 65, 65);
+  line-height: normal;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 0px 0px 0px auto;
+}
+.accountsection_20 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 72px;
+  gap: 12;
+  justify-content: center;
+  height: 36px;
+  display: flex;
+}
+.notificationbell_19 {
+  width: 24px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 24px;
+}
+.image_17 {
+  right: 8.75%;
+  position: absolute;
+  width: 19px;
+  top: 4.93%;
+  left: 8.47%;
+  bottom: 14.06%;
+  height: 19px;
+}
+.image_18 {
+  right: 42.83%;
+  position: absolute;
+  width: 3px;
+  top: 88.72%;
+  left: 42.56%;
+  bottom: 4.94%;
+  height: 1px;
+}
+.ellipse_5319 {
+  background-color: rgb(249, 154, 14);
+  right: 10.6%;
+  position: absolute;
+  border-radius: 50%;
+  width: 6px;
+  top: 10.15%;
+  left: 64.4%;
+  bottom: 64.85%;
+  height: 6px;
+  border: 1 solid rgb(255, 255, 255);
+}
+.image_20 {
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 36px;
+  height: 36px;
+  border: 0 solid rgb(240, 242, 248);
+}

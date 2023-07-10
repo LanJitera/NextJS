@@ -1,0 +1,46 @@
+@layer list {
+  :export {
+    --column: 1;
+    --xs: 0;
+    --md: 0;
+    --xl: 0;
+  }
+
+  .list {
+    display: grid;
+  }
+
+  .list-items {
+    display: contents;
+  }
+
+  .list li {
+    list-style-type: none;
+  }
+
+  .grid {
+    grid-auto-rows: minmax(100px, auto);
+  }
+
+  .grid {
+    grid-template-columns: repeat(var(--columns), 1fr);
+  }
+
+  @media screen and (max-width: 575px) {
+    .grid {
+      grid-template-columns: repeat(var(--xs), 1fr);
+    }
+  }
+
+  @media screen and (min-width: 768px) {
+    .grid {
+      grid-template-columns: repeat(var(--md), 1fr);
+    }
+  }
+
+  @media screen and (min-width: 1200px) {
+    .grid {
+      grid-template-columns: repeat(var(--xl), 1fr);
+    }
+  }
+}

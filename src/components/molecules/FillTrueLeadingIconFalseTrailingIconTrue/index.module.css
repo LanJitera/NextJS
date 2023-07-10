@@ -1,0 +1,47 @@
+.page_container {
+  flex-direction: row;
+  background-color: rgb(55, 29, 218);
+  border-radius: 8px;
+  position: relative;
+  gap: 12;
+  height: 60px;
+  align-items: center;
+  width: 163px;
+  justify-content: flex-start;
+  display: flex;
+  padding: 18px 34px 18px 34px;
+}
+.text_10 {
+  font-size: 16px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(255, 255, 255);
+  line-height: normal;
+  font-family: Montserrat;
+  position: relative;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 700;
+}
+.icons_arrow_13 {
+  width: 24px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 24px;
+}
+.image_12 {
+  width: 24px;
+  top: 0%;
+  position: absolute;
+  height: 24px;
+}
+.image_13 {
+  right: 23.48%;
+  position: absolute;
+  width: 12px;
+  top: 34.26%;
+  left: 23.48%;
+  bottom: 33.33%;
+  height: 7px;
+}

@@ -1,0 +1,15 @@
+.custom_component_container {
+  width: 100%;
+}
+.box_1 {
+  background-color: #ddd;
+  flex-direction: column;
+  min-height: auto;
+  width: auto;
+  height: auto;
+  display: flex;
+}
+.image_2 {
+  width: 30px;
+  height: 30px;
+}

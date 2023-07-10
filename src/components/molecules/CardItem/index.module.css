@@ -1,0 +1,121 @@
+.custom_component_container {
+  width: 320px;
+  height: 327px;
+}
+.box_3 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 1;
+  align-items: center;
+  position: relative;
+  width: 320px;
+  height: 327px;
+  justify-content: flex-start;
+  display: flex;
+  padding: 0px 16px 0px 16px;
+}
+.image_1 {
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 288px;
+  align-self: stretch;
+  height: 242px;
+}
+.box_4 {
+  flex-direction: column;
+  gap: 12;
+  align-self: stretch;
+  border-bottom-right-radius: 10px;
+  align-items: center;
+  width: 288px;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 85px;
+  border-bottom-left-radius: 10px;
+  display: flex;
+  border: 1px solid rgb(234, 234, 234);
+  padding: 20px 16px 20px 16px;
+}
+.box_5 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 256px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 45px;
+  display: flex;
+}
+.box_6 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 1;
+  align-items: flex-start;
+  position: relative;
+  width: 184px;
+  gap: 3;
+  justify-content: flex-start;
+  height: 45px;
+  display: flex;
+}
+.text_1 {
+  letter-spacing: 0%;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(65, 65, 65);
+  line-height: normal;
+  font-family: Roboto;
+  position: relative;
+  align-self: stretch;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 500;
+  font-size: 20px;
+}
+.text_2 {
+  letter-spacing: 0%;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(153, 153, 153);
+  line-height: normal;
+  font-family: Roboto;
+  position: relative;
+  align-self: stretch;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400;
+  font-size: 16px;
+}
+.text_3 {
+  font-size: 32px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(18, 98, 175);
+  line-height: 34;
+  font-family: Baloo Bhai;
+  position: relative;
+  text-align: right;
+  vertical-align: top;
+  font-weight: 400;
+}
+.button_0 {
+  font-size: 16px;
+  border-radius: 2px;
+  width: auto;
+  height: auto;
+  font-weight: 500;
+  display: inline-block;
+  padding: 4px 15px 4px 15px;
+}
+.text_29 {
+  word-break: break-word;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 500;
+}

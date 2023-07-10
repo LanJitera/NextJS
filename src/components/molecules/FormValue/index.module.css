@@ -1,0 +1,231 @@
+.page_container {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 1440px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 754px;
+  display: flex;
+}
+.newsletter_form_section_21 {
+  background-color: rgb(243, 247, 251);
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 1440px;
+  align-self: stretch;
+  height: 529px;
+}
+.image_4 {
+  width: 1440px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  height: 530px;
+}
+.subscribe_form_21 {
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  width: 549px;
+  gap: 30;
+  padding: 20px;
+  top: 52;
+  left: 445.5;
+  justify-content: flex-start;
+  height: 435px;
+  display: flex;
+}
+.form_header_8 {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  gap: 7;
+  width: 509px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 63px;
+  display: flex;
+}
+.text_7 {
+  letter-spacing: 0%;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(18, 98, 174);
+  line-height: normal;
+  font-family: Roboto;
+  position: relative;
+  align-self: stretch;
+  text-align: center;
+  vertical-align: top;
+  font-weight: 700;
+  font-size: 18px;
+}
+.text_8 {
+  font-size: 30px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(66, 66, 66);
+  line-height: normal;
+  font-family: Roboto;
+  position: relative;
+  align-self: stretch;
+  text-align: center;
+  vertical-align: top;
+  font-weight: 700;
+}
+.form_21 {
+  flex-direction: column;
+  border-radius: 12px;
+  gap: 17;
+  align-self: stretch;
+  align-items: flex-start;
+  width: 509px;
+  justify-content: flex-start;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.029999999329447746);
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 302px;
+  display: flex;
+  border: 1px solid rgb(234, 234, 234);
+  padding: 28px 30px 28px 30px;
+}
+.form_text_11 {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  gap: 6;
+  width: 449px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 34px;
+  display: flex;
+}
+.text_11 {
+  font-size: 18px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(86, 96, 115);
+  line-height: 34;
+  font-family: Roboto;
+  position: relative;
+  align-self: stretch;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400;
+}
+.form_fields_20 {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  gap: 10;
+  width: 449px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 122px;
+  display: flex;
+}
+.destination_name_input_16 {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  gap: 3;
+  width: 449px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 56px;
+  display: flex;
+}
+.input_16 {
+  flex: none;
+  position: relative;
+  border-radius: 4px;
+  align-self: stretch;
+  height: 56px;
+  align-items: flex-start;
+  width: 449px;
+  flex-grow: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  display: flex;
+  border: 1px solid rgba(0, 0, 0, 0.23000000417232513);
+  padding: 0px 12px 0px 12px;
+}
+.inactive_16 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  position: relative;
+  gap: 8;
+  align-self: stretch;
+  height: 56px;
+  align-items: center;
+  width: 425px;
+  justify-content: flex-start;
+  display: flex;
+  padding: 16px 0px 16px 0px;
+}
+.text_16 {
+  letter-spacing: 0.15000000596046448;
+  flex: none;
+  flex-grow: 1;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  line-height: 24;
+  font-family: Roboto;
+  position: relative;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 400;
+  font-size: 16px;
+}
+.arrow_1 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 24px;
+  gap: 10;
+  justify-content: flex-start;
+  height: 24px;
+  display: flex;
+}
+.button_21 {
+  background-color: rgb(249, 154, 14);
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: center;
+  border-radius: 4px;
+  position: relative;
+  width: 164px;
+  height: 56px;
+  justify-content: center;
+  flex: none;
+  display: flex;
+}
+.unstyled_button_1 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  gap: 8;
+  height: 42px;
+  align-items: flex-start;
+  width: 101px;
+  justify-content: flex-start;
+  display: flex;
+  padding: 8px 22px 8px 22px;
+}

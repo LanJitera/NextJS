@@ -1,0 +1,123 @@
+.page_container {
+  width: 100%;
+  background-color: #f5f2eb;
+  min-height: 100vh;
+  flex-direction: column;
+  display: flex;
+}
+.header_11 {
+  width: 100%;
+  background-color: #f5f2eb;
+  min-height: 300px;
+  position: absolute;
+  height: 100%;
+}
+.image_1 {
+  width: 598px;
+  top: 50px;
+  left: 749px;
+  position: absolute;
+  height: 600px;
+}
+.box_3 {
+  background-color: #ffffff;
+  min-height: 300px;
+  border-radius: 30px;
+  position: absolute;
+  width: 480px;
+  top: 50px;
+  left: 180px;
+  height: 650px;
+  margin: 50px 0px 0px 0px;
+}
+.form_1 {
+  max-width: 600px;
+  height: auto;
+  margin: 48px auto 48px auto;
+  padding: 26px 26px 42px 26px;
+}
+.form_1_name {
+  letter-spacing: 0.5;
+  flex-direction: column;
+  color: #000000;
+  align-items: center;
+  font-size: 40px;
+  font-weight: 700;
+  display: flex;
+  margin: 0px 0px 40px 0px;
+}
+.input_1_container {
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  padding: 16px 30px 16px 24px;
+}
+.box_1 {
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  margin: 10px 0px 10px 0px;
+}
+.text_1 {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  display: inline;
+  margin: 0px 10px 0px 0px;
+}
+.text_2 {
+  color: rgb(255, 0, 0);
+  font-weight: bold;
+  display: inline;
+}
+.input_email {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0);
+}
+.input_1_error_message_container {
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  margin: 10px 0px 0px 0px;
+}
+.form_1_button {
+  background-color: #aed6b3;
+  width: 376px;
+  height: 48px;
+  margin: 16px 30px 16px 24px;
+}
+.form_1_text_0 {
+  word-break: break-word;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 600;
+}
+.box_7 {
+  background-color: #ffffff;
+  align-items: center;
+  min-height: 10px;
+  width: 376px;
+  flex-direction: row;
+  display: flex;
+  margin: 16px 30px 16px 24px;
+}
+.text_5 {
+  flex-direction: column;
+  line-height: 50px;
+  color: rgb(0, 0, 0);
+  align-items: center;
+  font-size: 13px;
+  word-break: break-word;
+  font-weight: 500;
+  display: flex;
+  padding: 0px 0px 0px 73px;
+}
+.text_register {
+  font-size: 16px;
+  color: #0394fb;
+  line-height: 50px;
+  font-family: unset;
+  white-space: unset;
+  text-decoration: unset;
+  word-break: break-word;
+  font-style: unset;
+  font-weight: 500;
+  margin: 0px 0px 0px 5px;
+  padding: 0px 0px 0px auto;
+}

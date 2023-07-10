@@ -1,0 +1,136 @@
+.page_container {
+  width: 100%;
+  flex-direction: column;
+  min-height: 100vh;
+  display: flex;
+}
+.box_1 {
+  width: 100%;
+  background-color: #f5f2eb;
+  min-height: 300px;
+  position: absolute;
+  height: 100%;
+}
+.image_0 {
+  width: 598px;
+  top: 50px;
+  left: 749px;
+  position: absolute;
+  height: 600px;
+}
+.box_0 {
+  background-color: #ffffff;
+  min-height: 300px;
+  border-radius: 30px;
+  position: absolute;
+  width: 480px;
+  top: 50px;
+  left: 180px;
+  height: 800px;
+  margin: 50px 0px 0px 0px;
+}
+.form_2 {
+  max-width: 600px;
+  height: auto;
+  margin: 0px auto 48px auto;
+  padding: 26px 26px 42px 26px;
+}
+.text_0 {
+  letter-spacing: 0.5;
+  flex-direction: column;
+  color: #000000;
+  align-items: center;
+  font-size: 40px;
+  font-weight: 700;
+  display: flex;
+}
+.box_2 {
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  padding: 16px 30px 0px 24px;
+}
+.box_4 {
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  margin: 10px 0px 10px 0px;
+}
+.text_1 {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  display: inline;
+  margin: 0px 10px 0px 0px;
+}
+.text_2 {
+  color: rgb(255, 0, 0);
+  font-weight: bold;
+  display: inline;
+}
+.input_username {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0);
+}
+.box_5 {
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  margin: 10px 0px 0px 0px;
+}
+.datetimepicker_1_container {
+  width: 100%;
+  height: auto;
+}
+.datetimepicker_1_inner {
+  width: 100%;
+  height: auto;
+  margin: 10px 0px 10px 0px;
+}
+.datetimepicker_1 {
+  width: 376px;
+  color: rgb(0, 0, 0);
+  border-color: rgb(217, 217, 217);
+  height: 48px;
+}
+.button_0 {
+  background-color: #aed6b3;
+  width: 376px;
+  height: 48px;
+  margin: 16px 30px 16px 24px;
+}
+.text_13 {
+  word-break: break-word;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 600;
+}
+.box_14 {
+  background-color: #ffffff;
+  align-items: center;
+  min-height: 10px;
+  width: 376px;
+  flex-direction: row;
+  display: flex;
+  margin: 16px 30px 16px 24px;
+}
+.text_14 {
+  flex-direction: column;
+  line-height: 50px;
+  color: rgb(0, 0, 0);
+  align-items: center;
+  font-size: 13px;
+  word-break: break-word;
+  font-weight: 500;
+  display: flex;
+  padding: 0px 0px 0px 73px;
+}
+.text_15 {
+  font-size: 16px;
+  color: #0394fb;
+  line-height: 50px;
+  font-family: unset;
+  white-space: unset;
+  text-decoration: unset;
+  word-break: break-word;
+  font-style: unset;
+  font-weight: 500;
+  margin: 0px 0px 0px 5px;
+  padding: 0px 0px 0px auto;
+}

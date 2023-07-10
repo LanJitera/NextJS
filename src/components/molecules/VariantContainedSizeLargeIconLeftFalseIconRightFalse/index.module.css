@@ -1,0 +1,24 @@
+.page_container {
+  flex-direction: column;
+  align-items: flex-start;
+  width: 93px;
+  position: relative;
+  gap: 8;
+  height: 42px;
+  justify-content: flex-start;
+  display: flex;
+  padding: 8px 22px 8px 22px;
+}
+.text_324 {
+  letter-spacing: 0.46000000834465027;
+  flex: none;
+  flex-grow: 0;
+  color: rgba(0, 0, 0, 0.8700000047683716);
+  line-height: 26;
+  font-family: Roboto;
+  position: relative;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 500;
+  font-size: 15px;
+}
